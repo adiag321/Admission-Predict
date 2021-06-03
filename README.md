@@ -1,2 +1,15 @@
 # Admission-Predict
- This repository contains a basic Data Analysis Project
+
+Problem Defination: We need to predict the chances of getting admission is a foriegn university based on the some predictive variables like Gre Score, TOEFL Score, LOR, SOP, Univeristy Rating, etc.
+
+Data Set: https://www.kaggle.com/mohansacharya/graduate-admissions/home
+
+The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
+
+GRE Scores ( out of 340 )
+TOEFL Scores ( out of 120 )
+University Rating ( out of 5 )
+Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
+Undergraduate GPA ( out of 10 )
+Research Experience ( either 0 or 1 )
+Chance of Admit ( ranging from 0 to 1 )
